@@ -1,0 +1,7 @@
+| Item                 | Infraestrutura Física | AWS              |
+| -------------------- | --------------------- | ---------------- |
+| Compra de servidores | Alto custo inicial    | Não existe       |
+| Manutenção           | Mensal e obrigatória  | Inclusa          |
+| Energia elétrica     | Alta                  | Inclusa          |
+| Escalabilidade       | Limitada              | Sob demanda      |
+| Previsibilidade      | Baixa                 | Alta com Budgets |
