@@ -21,7 +21,7 @@ O objetivo do projeto foi elencar três serviços da AWS (Amazon Web Services) c
 
 # Descrição do Projeto
 
-O projeto de implementação foi dividido em **três etapas**, cada uma focada em um serviço AWS com impacto direto na **redução de custos operacionais e aumento da eficiência financeira**.
+O projeto de implementação foi dividido em **três etapas**, cada uma focada em um serviço AWS com impacto direto na redução de custos operacionais e aumento da eficiência financeira.
 
 
 ## Etapa 1: Amazon EC2 (Elastic Compute Cloud)
@@ -63,7 +63,7 @@ O Amazon S3 permite armazenar esses dados de forma segura, escalável e de baixo
 * Riscos de perda de dados
 * Custos de backup físico
 
-Além disso, o S3 permite configurar **políticas automáticas de arquivamento**, movendo arquivos antigos para camadas ainda mais baratas.
+Além disso, o S3 permite configurar políticas automáticas de arquivamento, movendo arquivos antigos para camadas ainda mais baratas.
 
 Benefício financeiro direto:
 
@@ -73,10 +73,10 @@ Benefício financeiro direto:
 
 ## Etapa 3: AWS Cost Explorer e AWS Budgets
 
-* Foco da ferramenta:** Controle e previsibilidade dos gastos
-* Descrição do caso de uso:**
+* Foco da ferramenta: Controle e previsibilidade dos gastos
+* Descrição do caso de uso:
 
-Um dos maiores receios de gestores financeiros ao migrar para cloud é a **falta de controle sobre os custos**.
+Um dos maiores receios de gestores financeiros ao migrar para cloud é a falta de controle sobre os custos.
 
 O AWS Cost Explorer permite visualizar, de forma clara e gráfica:
 
@@ -98,9 +98,9 @@ Benefício financeiro direto:
 
 ## Conclusão
 
-A implementação das ferramentas AWS na empresa **Abstergo Industries** tem como resultado esperado a **redução imediata de custos operacionais**, a **eliminação de investimentos elevados em infraestrutura física** e o **maior controle financeiro sobre os gastos com tecnologia**.
+A implementação das ferramentas AWS na empresa Abstergo Industries tem como resultado esperado a redução imediata de custos operacionais, a eliminação de investimentos elevados em infraestrutura física e o maior controle financeiro sobre os gastos com tecnologia.
 
-Essas soluções permitem que a empresa mantenha o foco em sua atividade principal — **produção e distribuição farmacêutica** — enquanto a infraestrutura tecnológica se adapta de forma flexível às demandas do negócio.
+Essas soluções permitem que a empresa mantenha o foco em sua atividade principal produção e distribuição farmacêutica enquanto a infraestrutura tecnológica se adapta de forma flexível às demandas do negócio.
 
 Recomenda-se a continuidade da utilização dos serviços implementados e a avaliação futura de novas soluções em nuvem que possam ampliar ainda mais a eficiência operacional e financeira da empresa.
 
